@@ -3,7 +3,7 @@ Este projeto implementa um sistema de comunicação cliente-servidor utilizando 
 
 O objetivo é demonstrar o funcionamento de comunicação via sockets em Java, aliado a um mecanismo básico de segurança para transformação de mensagens durante a transmissão.
 
-##Como funciona
+## Como funciona
 
 O sistema é composto por dois componentes:
 
